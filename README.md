@@ -21,10 +21,12 @@ Maintained by [code2946](https://github.com/code2946).
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/code2946/leet_code_solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/code2946/leet_code_solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/code2946/leet_code_solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/code2946/leet_code_solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |

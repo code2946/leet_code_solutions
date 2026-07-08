@@ -4,21 +4,20 @@ class Solution:
     
     def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
         head =ListNode()
-        temp1 , temp2 ,temp3 = list1  ,list2 ,head 
-        while (temp1 is not None and  temp2 is not None ):
-            if temp1.val >= temp2.val:
-                temp3.next  = temp2
-                temp2 = temp2.next
-            else: 
-                temp3.next =temp1
-                temp1 = temp1.next
-            temp3 = temp3.next    
-        if temp2 is not  None :
-            temp3.next = temp2
-        if temp1 is not None:
-            temp3.next=temp1
-        head = head.next
-        return head        
-                 
+        t1 ,t2 ,t3 = list1 ,list2 , head
+        while t1 is not None and t2 is not None :
+            if t1.val >= t2.val :
+                t3.next = t2 
+                t2 = t2.next
+            else :
+                t3.next = t1
+                t1 = t1.next
+            t3 = t3.next  
+        if t1 is not None :
+            t3.next = t1
+        if t2 is not None :
+            t3.next = t2   
+        head = head.next  
+        return head          
 
         

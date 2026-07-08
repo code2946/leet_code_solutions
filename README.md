@@ -48,4 +48,12 @@ Maintained by [code2946](https://github.com/code2946).
 | ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/code2946/leet_code_solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/code2946/leet_code_solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/code2946/leet_code_solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/code2946/leet_code_solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->

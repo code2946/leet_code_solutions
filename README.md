@@ -24,6 +24,7 @@ Maintained by [code2946](https://github.com/code2946).
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/code2946/leet_code_solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/code2946/leet_code_solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/code2946/leet_code_solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/code2946/leet_code_solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +39,7 @@ Maintained by [code2946](https://github.com/code2946).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1768-merge-strings-alternately](https://github.com/code2946/leet_code_solutions/tree/main/1768-merge-strings-alternately/) | Easy |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/code2946/leet_code_solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,4 +64,28 @@ Maintained by [code2946](https://github.com/code2946).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/code2946/leet_code_solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/code2946/leet_code_solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/code2946/leet_code_solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/code2946/leet_code_solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/code2946/leet_code_solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/code2946/leet_code_solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/code2946/leet_code_solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 <!---LeetCode Topics End-->

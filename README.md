@@ -34,6 +34,7 @@ Maintained by [code2946](https://github.com/code2946).
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/code2946/leet_code_solutions/tree/main/1291-sequential-digits/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/code2946/leet_code_solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |

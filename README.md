@@ -22,6 +22,7 @@ Maintained by [code2946](https://github.com/code2946).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/code2946/leet_code_solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/code2946/leet_code_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/code2946/leet_code_solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/code2946/leet_code_solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/code2946/leet_code_solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -56,6 +57,7 @@ Maintained by [code2946](https://github.com/code2946).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/code2946/leet_code_solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/code2946/leet_code_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/code2946/leet_code_solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/code2946/leet_code_solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/code2946/leet_code_solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -104,6 +106,7 @@ Maintained by [code2946](https://github.com/code2946).
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/code2946/leet_code_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/code2946/leet_code_solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/code2946/leet_code_solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/code2946/leet_code_solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |

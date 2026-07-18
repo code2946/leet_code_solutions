@@ -4,10 +4,8 @@ class Solution:
         l= float('-inf')
         r  =float('inf')
         for num in nums :
-            if l < num:
-                l= num
-            if r > num :
-                r= num
+            l = max(l , num)
+            r = min(r,num)
         return math.gcd(l,r)        
         
         

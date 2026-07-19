@@ -51,6 +51,7 @@ Maintained by [code2946](https://github.com/code2946).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/code2946/leet_code_solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/code2946/leet_code_solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/code2946/leet_code_solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/code2946/leet_code_solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Math
@@ -89,6 +90,7 @@ Maintained by [code2946](https://github.com/code2946).
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/code2946/leet_code_solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/code2946/leet_code_solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -122,4 +124,12 @@ Maintained by [code2946](https://github.com/code2946).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/code2946/leet_code_solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/code2946/leet_code_solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/code2946/leet_code_solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 <!---LeetCode Topics End-->

@@ -22,6 +22,7 @@ Maintained by [code2946](https://github.com/code2946).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/code2946/leet_code_solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [1260-shift-2d-grid](https://github.com/code2946/leet_code_solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/code2946/leet_code_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/code2946/leet_code_solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/code2946/leet_code_solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -115,6 +116,7 @@ Maintained by [code2946](https://github.com/code2946).
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/code2946/leet_code_solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/code2946/leet_code_solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -132,4 +134,8 @@ Maintained by [code2946](https://github.com/code2946).
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/code2946/leet_code_solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/code2946/leet_code_solutions/tree/main/1260-shift-2d-grid/) | Easy |
 <!---LeetCode Topics End-->

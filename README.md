@@ -42,6 +42,7 @@ Maintained by [code2946](https://github.com/code2946).
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/code2946/leet_code_solutions/tree/main/1291-sequential-digits/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/code2946/leet_code_solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/code2946/leet_code_solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +55,7 @@ Maintained by [code2946](https://github.com/code2946).
 | [1071-greatest-common-divisor-of-strings](https://github.com/code2946/leet_code_solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/code2946/leet_code_solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/code2946/leet_code_solutions/tree/main/1768-merge-strings-alternately/) | Easy |
+| [3499-maximize-active-section-with-trade-i](https://github.com/code2946/leet_code_solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/code2946/leet_code_solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
